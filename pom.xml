@@ -7,6 +7,7 @@
     <groupId>com.devskiller.sample</groupId>
     <artifactId>java-calculator</artifactId>
     <version>1.0.0</version>
+	<packaging>war</packaging>
     <properties>
    		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
    	</properties>
